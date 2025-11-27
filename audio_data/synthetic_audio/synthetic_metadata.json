@@ -1,0 +1,158 @@
+[
+  {
+    "filename": "phuthai_synthetic_interpolation_0.wav",
+    "class": "phuthai",
+    "method": "interpolation",
+    "filepath": "/home/user/webapp/synthetic_audio/phuthai_synthetic_interpolation_0.wav"
+  },
+  {
+    "filename": "phuthai_synthetic_interpolation_1.wav",
+    "class": "phuthai",
+    "method": "interpolation",
+    "filepath": "/home/user/webapp/synthetic_audio/phuthai_synthetic_interpolation_1.wav"
+  },
+  {
+    "filename": "phuthai_synthetic_interpolation_2.wav",
+    "class": "phuthai",
+    "method": "interpolation",
+    "filepath": "/home/user/webapp/synthetic_audio/phuthai_synthetic_interpolation_2.wav"
+  },
+  {
+    "filename": "phuthai_synthetic_interpolation_3.wav",
+    "class": "phuthai",
+    "method": "interpolation",
+    "filepath": "/home/user/webapp/synthetic_audio/phuthai_synthetic_interpolation_3.wav"
+  },
+  {
+    "filename": "phuthai_synthetic_interpolation_4.wav",
+    "class": "phuthai",
+    "method": "interpolation",
+    "filepath": "/home/user/webapp/synthetic_audio/phuthai_synthetic_interpolation_4.wav"
+  },
+  {
+    "filename": "phuthai_synthetic_scale_based_0.wav",
+    "class": "phuthai",
+    "method": "scale_based",
+    "filepath": "/home/user/webapp/synthetic_audio/phuthai_synthetic_scale_based_0.wav"
+  },
+  {
+    "filename": "phuthai_synthetic_scale_based_1.wav",
+    "class": "phuthai",
+    "method": "scale_based",
+    "filepath": "/home/user/webapp/synthetic_audio/phuthai_synthetic_scale_based_1.wav"
+  },
+  {
+    "filename": "phuthai_synthetic_scale_based_2.wav",
+    "class": "phuthai",
+    "method": "scale_based",
+    "filepath": "/home/user/webapp/synthetic_audio/phuthai_synthetic_scale_based_2.wav"
+  },
+  {
+    "filename": "phuthai_synthetic_scale_based_3.wav",
+    "class": "phuthai",
+    "method": "scale_based",
+    "filepath": "/home/user/webapp/synthetic_audio/phuthai_synthetic_scale_based_3.wav"
+  },
+  {
+    "filename": "phuthai_synthetic_scale_based_4.wav",
+    "class": "phuthai",
+    "method": "scale_based",
+    "filepath": "/home/user/webapp/synthetic_audio/phuthai_synthetic_scale_based_4.wav"
+  },
+  {
+    "filename": "phuthai_synthetic_scale_based_5.wav",
+    "class": "phuthai",
+    "method": "scale_based",
+    "filepath": "/home/user/webapp/synthetic_audio/phuthai_synthetic_scale_based_5.wav"
+  },
+  {
+    "filename": "phuthai_synthetic_scale_based_6.wav",
+    "class": "phuthai",
+    "method": "scale_based",
+    "filepath": "/home/user/webapp/synthetic_audio/phuthai_synthetic_scale_based_6.wav"
+  },
+  {
+    "filename": "phuthai_synthetic_scale_based_7.wav",
+    "class": "phuthai",
+    "method": "scale_based",
+    "filepath": "/home/user/webapp/synthetic_audio/phuthai_synthetic_scale_based_7.wav"
+  },
+  {
+    "filename": "phuthai_synthetic_augmentation_0.wav",
+    "class": "phuthai",
+    "method": "augmentation",
+    "filepath": "/home/user/webapp/synthetic_audio/phuthai_synthetic_augmentation_0.wav"
+  },
+  {
+    "filename": "phuthai_synthetic_augmentation_1.wav",
+    "class": "phuthai",
+    "method": "augmentation",
+    "filepath": "/home/user/webapp/synthetic_audio/phuthai_synthetic_augmentation_1.wav"
+  },
+  {
+    "filename": "phuthai_synthetic_augmentation_2.wav",
+    "class": "phuthai",
+    "method": "augmentation",
+    "filepath": "/home/user/webapp/synthetic_audio/phuthai_synthetic_augmentation_2.wav"
+  },
+  {
+    "filename": "phuthai_synthetic_augmentation_3.wav",
+    "class": "phuthai",
+    "method": "augmentation",
+    "filepath": "/home/user/webapp/synthetic_audio/phuthai_synthetic_augmentation_3.wav"
+  },
+  {
+    "filename": "phuthai_synthetic_augmentation_4.wav",
+    "class": "phuthai",
+    "method": "augmentation",
+    "filepath": "/home/user/webapp/synthetic_audio/phuthai_synthetic_augmentation_4.wav"
+  },
+  {
+    "filename": "toei_synthetic_scale_based_0.wav",
+    "class": "toei",
+    "method": "scale_based",
+    "filepath": "/home/user/webapp/synthetic_audio/toei_synthetic_scale_based_0.wav"
+  },
+  {
+    "filename": "toei_synthetic_scale_based_1.wav",
+    "class": "toei",
+    "method": "scale_based",
+    "filepath": "/home/user/webapp/synthetic_audio/toei_synthetic_scale_based_1.wav"
+  },
+  {
+    "filename": "toei_synthetic_scale_based_2.wav",
+    "class": "toei",
+    "method": "scale_based",
+    "filepath": "/home/user/webapp/synthetic_audio/toei_synthetic_scale_based_2.wav"
+  },
+  {
+    "filename": "toei_synthetic_scale_based_3.wav",
+    "class": "toei",
+    "method": "scale_based",
+    "filepath": "/home/user/webapp/synthetic_audio/toei_synthetic_scale_based_3.wav"
+  },
+  {
+    "filename": "toei_synthetic_scale_based_4.wav",
+    "class": "toei",
+    "method": "scale_based",
+    "filepath": "/home/user/webapp/synthetic_audio/toei_synthetic_scale_based_4.wav"
+  },
+  {
+    "filename": "toei_synthetic_scale_based_5.wav",
+    "class": "toei",
+    "method": "scale_based",
+    "filepath": "/home/user/webapp/synthetic_audio/toei_synthetic_scale_based_5.wav"
+  },
+  {
+    "filename": "toei_synthetic_scale_based_6.wav",
+    "class": "toei",
+    "method": "scale_based",
+    "filepath": "/home/user/webapp/synthetic_audio/toei_synthetic_scale_based_6.wav"
+  },
+  {
+    "filename": "toei_synthetic_scale_based_7.wav",
+    "class": "toei",
+    "method": "scale_based",
+    "filepath": "/home/user/webapp/synthetic_audio/toei_synthetic_scale_based_7.wav"
+  }
+]
